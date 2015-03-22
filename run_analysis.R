@@ -2,7 +2,6 @@
 #   R script for course project "Getting and Cleaning Data"
 # author: kampamocha
 # date: 2015-03-22
-setwd("/media/kampamocha/win7/kampamocha/CURSOS/COURSERA/Data_Science/3_GACD/project/analysis")
 
 # Read files
 features <- read.table("features.txt", stringsAsFactors=FALSE)
